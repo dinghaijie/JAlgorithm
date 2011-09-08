@@ -3,7 +3,7 @@
  * implemented as static methods.
  * Arrays are rearranged with smallest item first,
  * using compareTo.
- * @author Mark Allen Weiss
+ * @author Haijie Ding
  */
 public final class Sort
 {

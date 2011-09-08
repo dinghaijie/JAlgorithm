@@ -16,7 +16,7 @@
  * linear congruential generator.
  * Note that java.util contains a class Random,
  * so watch out for name conflicts.
- * @author Mark Allen Weiss
+ * @author Haijie Ding
  */
 public class Random
 {
